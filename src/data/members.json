@@ -1,6 +1,6 @@
 [
     {
-        "title": "Max Böck",
+        "title": "Amnesty International",
         "url": "https://www.amnesty.org/",
         "feed": null
     },
@@ -27,6 +27,16 @@
     {
         "title": "People Over Politics",
         "url": "http://www.peopleoverpolitics.org/",
+        "feed": null
+    },
+    {
+        "title": "Workable Model UN",
+        "url": "https://workablemun.org//",
+        "feed": null
+    },
+    {
+        "title": "One World",
+        "url": "https://oneworld.org/",
         "feed": null
     }
 ]
