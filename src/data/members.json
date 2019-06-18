@@ -1,42 +1,32 @@
 [
     {
         "title": "Max Böck",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
-    },
-    {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
-    },
-    {
-        "title": "Charlie Owen",
-        "url": "https://www.sonniesedge.net/",
+        "url": "https://www.amnesty.org/",
         "feed": null
     },
     {
-        "title": "Björn Ganslandt",
-        "url": "https://ganslandt.xyz/",
+        "title": "Greenpeace",
+        "url": "https://www.greenpeace.org/",
         "feed": null
     },
     {
-        "title": "Jan Hrubý",
-        "url": "https://www.mrozilla.cz/",
+        "title": "Avaaz",
+        "url": "https://avaaz.org/",
         "feed": null
     },
     {
-        "title": "Zach Leatherman",
-        "url": "https://www.zachleat.com/",
-        "feed": "https://www.zachleat.com/web/feed/"
-    },
-    {
-        "title": "Steve Gardner",
-        "url": "https://ste.vg",
+        "title": "The Nature Conservancy",
+        "url": "https://www.nature.org",
         "feed": null
     },
     {
-        "title": "Alan Levine",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
+        "title": "Citizens for Global Solutions",
+        "url": "https://globalsolutions.org/",
+        "feed": null
+    },
+    {
+        "title": "People Over Politics",
+        "url": "http://www.peopleoverpolitics.org/",
+        "feed": null
     }
 ]
