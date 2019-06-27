@@ -38,5 +38,10 @@
         "title": "One World",
         "url": "https://oneworld.org/",
         "feed": null
+    },
+    {
+        "title": "Generations Project",
+        "url": "https://generationsproject.us/",
+        "feed": null
     }
 ]
