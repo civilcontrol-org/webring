@@ -2,12 +2,12 @@
     "title": "OK, we will do it then…",
     "description": "Politics, just like corporations, have their own perspective, which usually involves power. <br>Politics, just like corporations, must be well regulated, to keep them from breaking fundamental rules of humanity, generousity, responsibility. <br>This webring is a curated list of civil movements for this goal.",
     "image": "brain-on-wings-crop-warm1.png",
-    "url": "https://ringlo.netlify.com",
-    "repo": "https://github.com/vhollo/webring",
+    "url": "https://www.civilcontrol.org",
+    "repo": "https://github.com/civilctrl/civilctrl",
     "admins": [
         {
-            "name": "vhollo",
-            "url": "https://github.com/vhollo"
+            "name": "civilctrl",
+            "url": "https://github.com/civilctrl"
         }
     ]
 }
