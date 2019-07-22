@@ -1,12 +1,12 @@
 {
-  "name": "webring",
+  "name": "civilctrl",
   "version": "0.1.0",
-  "description": "A boilerplate for hosting a webring community",
-  "author": "Max Böck",
+  "description": "A boilerplate for hosting a webring community – by Max Böck",
+  "author": "civilctrl",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/webring"
+    "url": "http://github.com/civilctrl/civilctrl"
   },
   "scripts": {
     "start": "gulp build:dev & eleventy --serve",
