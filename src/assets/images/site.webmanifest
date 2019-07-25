@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Civil Control",
+    "short_name": "Civil Control",
     "icons": [
         {
             "src": "/assets/images/android-chrome-192x192.png",
@@ -8,7 +8,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#c891a5",
+    "background_color": "#c891a5",
+    "start_url": "https://www.civilcontrol.org/",
     "display": "standalone"
 }
