@@ -33,7 +33,7 @@
 
 .map--dense {
     .map__tooltip {
-        opacity: 0;
+        font-size:75%;
     }
     .map__node:hover + .map__tooltip {
         opacity: 1;
