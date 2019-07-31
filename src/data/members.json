@@ -1,4 +1,4 @@
-[
+ [
     {
         "title": "Amnesty International",
         "url": "https://www.amnesty.org/",
@@ -52,6 +52,11 @@
     {
         "title": "CANVAS",
         "url": "https://canvasopedia.org/",
+        "feed": null
+    },
+    {
+        "title": "Albert Einstein Institution",
+        "url": "https://www.aeinstein.org/",
         "feed": null
     }
 ]
