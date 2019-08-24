@@ -40,11 +40,6 @@
         "feed": null
     },
     {
-        "title": "Generations Project",
-        "url": "https://generationsproject.us/",
-        "feed": null
-    },
-    {
         "title": "ICNC",
         "url": "https://www.nonviolent-conflict.org/about/civil-resistance/",
         "feed": null
@@ -57,6 +52,21 @@
     {
         "title": "Albert Einstein Institution",
         "url": "https://www.aeinstein.org/",
+        "feed": null
+    },
+    {
+        "title": "bits of good",
+        "url": "https://bitsofgood.org/",
+        "feed": null
+    },
+    {
+        "title": "Democracy OS",
+        "url": "http://democracyos.org/",
+        "feed": null
+    },
+    {
+        "title": "Generations Project",
+        "url": "https://generationsproject.us/",
         "feed": null
     }
 ]
