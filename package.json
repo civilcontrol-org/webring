@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/civilctrl/civilctrl"
+    "url": "http://github.com/civilcontrol-org/civilctrl"
   },
   "scripts": {
     "start": "gulp build:dev & eleventy --serve",
