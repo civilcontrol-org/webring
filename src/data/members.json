@@ -10,18 +10,18 @@
         "feed": null
     },
     {
-        "title": "Avaaz",
-        "url": "https://avaaz.org/",
-        "feed": null
-    },
-    {
         "title": "The Nature Conservancy",
         "url": "https://www.nature.org/",
         "feed": null
     },
     {
-        "title": "Citizens for Global Solutions",
-        "url": "https://globalsolutions.org/",
+        "title": "Avaaz",
+        "url": "https://avaaz.org/",
+        "feed": null
+    },
+    {
+        "title": "CANVAS",
+        "url": "https://canvasopedia.org/",
         "feed": null
     },
     {
@@ -35,21 +35,6 @@
         "feed": null
     },
     {
-        "title": "One World",
-        "url": "https://oneworld.org/",
-        "feed": null
-    },
-    {
-        "title": "ICNC",
-        "url": "https://www.nonviolent-conflict.org/about/civil-resistance/",
-        "feed": null
-    },
-    {
-        "title": "CANVAS",
-        "url": "https://canvasopedia.org/",
-        "feed": null
-    },
-    {
         "title": "Albert Einstein Institution",
         "url": "https://www.aeinstein.org/",
         "feed": null
@@ -57,6 +42,21 @@
     {
         "title": "Bits of Good",
         "url": "https://bitsofgood.org/",
+        "feed": null
+    },
+    {
+        "title": "Citizens for Global Solutions",
+        "url": "https://globalsolutions.org/",
+        "feed": null
+    },
+    {
+        "title": "One World",
+        "url": "https://oneworld.org/",
+        "feed": null
+    },
+    {
+        "title": "ICNC",
+        "url": "https://www.nonviolent-conflict.org/about/civil-resistance/",
         "feed": null
     },
     {
