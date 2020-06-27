@@ -50,6 +50,11 @@
         "feed": null
     },
     {
+        "title": "Extinction Rebellion",
+        "url": "https://rebellion.earth/",
+        "feed": null
+    },
+    {
         "title": "One World",
         "url": "https://oneworld.org/",
         "feed": null
@@ -74,11 +79,7 @@
         "url": "https://phr.org/",
         "feed": null
     },
-    {
-        "title": "Extinction Rebellion",
-        "url": "https://rebellion.earth/",
-        "feed": null
-    } ,
+
     {
         "title": "Change the Terms",
         "url": "https://www.changetheterms.org/",
