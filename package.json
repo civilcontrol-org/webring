@@ -18,7 +18,7 @@
     "start": "npm-run-all sass --parallel watch:*"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "clean-css": "^4.2.3",
     "cssesc": "^3.0.0",
